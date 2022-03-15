@@ -8,5 +8,5 @@ Python Mini Projects for Beginners
   - Code - [Python Code](https://github.com/amolambkar/Python-Mini-Projects/tree/main/Rock%20Paper%20Scissor%20Game)
 
 2. Quiz Game
-  - Tutorial - []()
+  - Tutorial - [Youtube Video ](https://www.youtube.com/watch?v=SLWce_dxvaM)
   - Code - [Python Code]()
