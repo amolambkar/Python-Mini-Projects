@@ -9,4 +9,4 @@ Python Mini Projects for Beginners
 
 2. Quiz Game
   - Tutorial - [Youtube Video ](https://www.youtube.com/watch?v=SLWce_dxvaM)
-  - Code - [Python Code]()
+  - Code - [Python Code](https://github.com/amolambkar/Python-Mini-Projects/tree/main/Quiz%20Game)
